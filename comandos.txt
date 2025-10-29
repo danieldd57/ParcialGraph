@@ -1,0 +1,5 @@
+
+npx license GPL > LICENSE ; gitignore node ; git init ; npm init --yes ; npm pkg set type="module"
+
+
+npm i express graphql express-graphql
